@@ -1,5 +1,4 @@
 # Getting started with Phaser 3 Tutorial
-Written by Tu-Trung-Richie Lam
 Link to tutorial: https://phaser.io/tutorials/getting-started-phaser3/index
 
 1. Install NodeJS, Python, XAMP, WAMP or MAMP (essentially a webserver)
